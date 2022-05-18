@@ -1,4 +1,4 @@
-package _01_introduction_java.practice;
+package _01_introduction_java.practice.p6;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;
